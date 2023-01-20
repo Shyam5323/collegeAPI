@@ -1,5 +1,5 @@
 # Imports
-from curses import pair_number
+#from curses import pair_number
 from fastapi import FastAPI, HTTPException
 from numpy import number, typename
 import numpy
